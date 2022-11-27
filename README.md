@@ -1,6 +1,6 @@
 # __TUGAS PRAKTIKUM 5__
 
-__Program__
+##__Program__
 
 ![img](Gambar/1.PNG)
 ![img](Gambar/2.PNG)
@@ -27,4 +27,7 @@ __Program__
  
  ![img](Gambar/9.PNG)
  
+__Flowchart__
+ 
+ ![img](10.jpeg)
  
